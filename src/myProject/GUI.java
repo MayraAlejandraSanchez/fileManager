@@ -27,7 +27,7 @@ public class GUI extends JFrame {
 
         //Default JFrame configuration
         this.setTitle("File Manager app");
-        this.setSize(200,100);
+        this.setSize(300,300);
         //this.pack();
         this.setResizable(true);
         this.setVisible(true);
